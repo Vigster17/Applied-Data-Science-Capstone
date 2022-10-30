@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone
+# applied-data-science-capstone
